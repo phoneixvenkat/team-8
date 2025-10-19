@@ -1,6 +1,4 @@
 ---
-
-```markdown
 # Predicting Student Academic Performance for Early Intervention
 
 **University of New Haven**  
@@ -113,7 +111,7 @@ Data Storage / Monitoring (Save predictions, CloudWatch / Logs)
 4. Run the Streamlit app:  
    ```bash
    streamlit run app.py
-````
+```
 
 5. Explore predictions and feature importance in real-time
 
