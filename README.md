@@ -106,7 +106,6 @@ Data Storage / Monitoring (Save predictions, CloudWatch / Logs)
 2. Access the dataset (`data/student_mat.csv`)  
 3. Follow preprocessing steps in `notebooks/data_preprocessing.ipynb`  
 
-
 ## **References**
 
 * [UCI Student Performance Dataset](https://archive.ics.uci.edu/ml/datasets/student+performance)
