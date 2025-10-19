@@ -118,5 +118,4 @@ Data Storage / Monitoring (Save predictions, CloudWatch / Logs)
 
 ```
 
----
 
