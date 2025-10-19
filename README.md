@@ -105,10 +105,7 @@ Data Storage / Monitoring (Save predictions, CloudWatch / Logs)
 1. Clone this repository  
 2. Access the dataset (`data/student_mat.csv`)  
 3. Follow preprocessing steps in `notebooks/data_preprocessing.ipynb`  
-4. Run the Streamlit app:  
-   ```bash
-   streamlit run app.py
-```
+
 
 ## **References**
 
