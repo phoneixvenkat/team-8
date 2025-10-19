@@ -1,7 +1,4 @@
----
-# Predicting Student Academic Performance for Early Intervention
 
-**University of New Haven**  
 
 ---
 
