@@ -1,7 +1,7 @@
 
 
 ---
-
+# Predicting Student Academic Performance
 ## **Team Members**
 - **Bipin Puri** – Team Lead & Analyst  
 - **Greeshma Chanduri** – Data Scientist  
