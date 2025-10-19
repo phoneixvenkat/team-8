@@ -3,7 +3,7 @@
 ---
 # Predicting Student Academic Performance
 ## **Team Members**
-- **Bipin Puri** – Team Lead & Analyst  
+- **Bipin Puri** – Data Engineer  
 - **Greeshma Chanduri** – Data Scientist  
 - **Erla Venkata** – Data Engineer  
 
